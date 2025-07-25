@@ -358,7 +358,7 @@
   },
   "logo": {
     "light": "/logo/Aspect.png",
-    "dark": "/logo/light.png"
+    "dark": "/logo/Aspect.png"
   },
   "navbar": {
     "links": [
