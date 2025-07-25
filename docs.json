@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
        {
-        "tab": "How Cube6 Works?",
+        "tab": "How Cube6.chat Works?",
         "groups": [
            {
             "group": "Onboarding",
@@ -28,7 +28,6 @@
               "how-botpenguin-works/instagram_chatbot",
               "how-botpenguin-works/facebook_chatbot",
               "how-botpenguin-works/telegram_chatbot",
-              "how-botpenguin-works/microsoft_teams_bot",
               "how-botpenguin-works/make_your_live_chat_chatbot"
             ]
           },
@@ -39,14 +38,7 @@
               "edit-your-chatflow/request_info",
               "edit-your-chatflow/send_info",
               "edit-your-chatflow/trigger_action",
-              "edit-your-chatflow/email_validation",
               "edit-your-chatflow/whatsapp_payment_components"
-            ]
-          },
-          {
-            "group": "Pre-Built Chatbot Templates",
-            "pages": [
-              "prebuilt-chat-comp/prebuilt_chat_compo"
             ]
           },
           {
@@ -103,7 +95,6 @@
               "whatsapp-chatbot-setting/general",
               "whatsapp-chatbot-setting/trigger",
               "whatsapp-chatbot-setting/alert",
-              "whatsapp-chatbot-setting/api_key",
               "whatsapp-chatbot-setting/whatsapp_profile",
               "whatsapp-chatbot-setting/ai_setting"
             ]
@@ -140,9 +131,6 @@
             "group": "3rd Party Apps Integrations",
             "pages": [
               "3-party-integration/chatgpt",
-              "3-party-integration/acuity_scheduling",
-              "3-party-integration/microsoft_teams",
-              "3-party-integration/woocommerce",
               "3-party-integration/autopilot",
               "3-party-integration/firmaocrm",
               "3-party-integration/capsulecrm",
@@ -155,8 +143,6 @@
               "3-party-integration/googlesheet",
               "3-party-integration/googlecalendar",
               "3-party-integration/googletask",
-              "3-party-integration/googlegemini",
-              "3-party-integration/googletagmanager",
               "3-party-integration/helpshiftcrm",
               "3-party-integration/zendeskcrm",
               "3-party-integration/leadsquaredcrm",
@@ -177,7 +163,6 @@
               "3-party-integration/teamgatecrm",
               "3-party-integration/zohoprojects",
               "3-party-integration/zohocrm",
-              "3-party-integration/googledrive",
               "3-party-integration/agilecrm",
               "3-party-integration/pipedrive",
               "3-party-integration/dripcrm",
@@ -191,7 +176,6 @@
               "3-party-integration/nutshellcrm",
               "3-party-integration/ontraport",
               "3-party-integration/hubspot",
-              "3-party-integration/webhopper",
               "3-party-integration/engagebay",
               "3-party-integration/frontapp",
               "3-party-integration/coppercrm",
@@ -204,23 +188,15 @@
               "3-party-integration/salesforcecrm",
               "3-party-integration/chakracrm",
               "3-party-integration/simplybook",
-              "3-party-integration/gitbook",
               "3-party-integration/gohighlevel",
-              "3-party-integration/voxloud",
-              "3-party-integration/viasocket",
               "3-party-integration/twilio",
-              "3-party-integration/shopify",
-              "3-party-integration/razorpay",
-              "3-party-integration/pabbly",
               "3-party-integration/outlook",
               "3-party-integration/onpipeline",
               "3-party-integration/notion",
               "3-party-integration/moengage",
-              "3-party-integration/kylascrm",
               "3-party-integration/googleanalytics",
               "3-party-integration/firstpromotor",
               "3-party-integration/googlecontact",
-              "3-party-integration/zapier",
               "3-party-integration/makecom"
             ]
           },
@@ -231,10 +207,7 @@
               "inbox/orders",
               "inbox/contacts",
               "inbox/groups",
-              "inbox/real_time_customer_interaction",
-              "inbox/importing_whatsapp_contacts",
-              "inbox/creating_segments",
-              "inbox/using_tags"
+              "inbox/real_time_customer_interaction"
             ]
           },
           {
@@ -247,7 +220,7 @@
             "group": "Teams",
             "pages": [
               "teams/dept",
-              "teams/business_huor",
+              "teams/business_hour",
               "teams/team",
               "teams/role",
               "teams/using_team"
@@ -258,7 +231,6 @@
             "group": "Developer",
             "pages": [
               "developer/3_party_app_api",
-              "developer/api_access_token",
               "developer/webhook"
             ]
           },
@@ -270,13 +242,6 @@
               "settings/custom_status",
               "settings/quick_replies",
               "settings/custom_tabs"
-            ]
-          },
-          {
-            "group": "My Account",
-            "pages": [
-              "my-account/account",
-              "my-account/password"
             ]
           },
           {
@@ -307,7 +272,7 @@
         ]
       },
        {
-        "tab": "Plattform Guidelines & Training",
+        "tab": "Platform Guidelines & Training",
         "groups": [
           {
             "group": "WhatsApp Cloud API by Meta",
@@ -355,7 +320,7 @@
         ]
       },
        {
-        "tab": "Plattform Updates & Info",
+        "tab": "Platform Updates & Info",
         "groups": [
           {
             "group": "What's New",
@@ -435,20 +400,20 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/light.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:info@cube6.ai"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://app.cube6.chat"
     }
   },
   "footer": {
